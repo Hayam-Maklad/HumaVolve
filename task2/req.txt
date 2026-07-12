@@ -1,0 +1,9 @@
+Difference between req.params and req.query
+
+1.req.params
+  - req.params gets data from the URL path.
+  - req.params is mainly used to identify a specific resource.
+
+2.req.query
+ - req.query gets data from the query string.
+ - req.query is mainly used for search and filtering.
